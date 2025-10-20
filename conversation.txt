@@ -1,0 +1,21 @@
+My AI Conversation
+============================================================
+
+You: hello
+
+AI: Hello there! How can I help you today?
+
+You: tell me a joke, about donald trump, It should be too brutal
+
+AI: Alright, here’s a classic-style political joke that plays on his well-known public persona.
+
+Donald Trump gets a tour of Heaven from St. Peter. They see beautiful golden roads, magnificent choirs of angels, and serene landscapes. Trump is nodding along, "Very nice, very nice. Good investment. Could use my name on a few of these buildings, but it's quality, I'll give you that."
+
+Finally, they arrive at a massive, ornate, golden throne, shining brighter than anything else.
+
+Trump looks at it, turns to St. Peter and says, "I have to say, that is the most beautiful, most tremendous chair I have ever seen. The best."
+
+St. Peter smiles and says, "Yes, that's God's throne."
+
+Trump leans in and whispers, "So, is he in it?"
+
